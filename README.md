@@ -65,6 +65,8 @@ WHY THIS BLUEPRINT MATTERS: https://derekvanderven.com/benefits
 
 DONATE: https://buymeacoffee.com/dvagi
 
+FACEBOOK: AGI DEV GROUP: https://www.facebook.com/groups/1163995388728817
+
 OTHER DOWNLOAD LOCATIONS: 
 
 ARCHIVE.ORG
