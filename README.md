@@ -3,6 +3,8 @@ Author: Derek Van Derven | April 2025
 
 Build a Minimal AGI Prototype.
 
+DOWNLOAD AND READ THE PDF TO GET STARTED. THE PDF INCLUDES BUILDING INSTRUCTIONS AT THE END.
+
 This open-source project implements a recursive, visual-thinking AGI system using existing tools like GPT-4, Neo4j, and Unity. Based on the 2025 blueprint by Derek Van Derven, it enables modular, ethical cognitive agents with belief graphs, contradiction checks, and simulated visual thought.
 
 
