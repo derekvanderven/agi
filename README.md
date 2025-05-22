@@ -1,6 +1,24 @@
 # Multimodal Cognitive System — AGI Build Guide & Starter Code
 Author: Derek Van Derven | April 2025
 
+Build a Minimal AGI Prototype.
+
+This open-source project implements a recursive, visual-thinking AGI system using existing tools like GPT-4, Neo4j, and Unity. Based on the 2025 blueprint by Derek Van Derven, it enables modular, ethical cognitive agents with belief graphs, contradiction checks, and simulated visual thought.
+
+
+## Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Tech Stack](#tech-stack)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Download Links](#other-download-locations)
+- [Team Roles](#required-team-to-build-a-minimal-version-of-this-agi)
+
+User Input → LLM Thought → Belief Graph → Contradiction Check → Memory Update → Goal Stack → Next Thought
+
 Overview
 This repository provides a practical developer guide and starter code to build a minimal viable AGI based on the Multimodal Cognitive System blueprint authored by Derek Van Derven (April 2025). It outlines a modular architecture featuring:
 
