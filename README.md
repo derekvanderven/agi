@@ -6,16 +6,6 @@ Build a Minimal AGI Prototype.
 This open-source project implements a recursive, visual-thinking AGI system using existing tools like GPT-4, Neo4j, and Unity. Based on the 2025 blueprint by Derek Van Derven, it enables modular, ethical cognitive agents with belief graphs, contradiction checks, and simulated visual thought.
 
 
-## Table of Contents
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-- [Tech Stack](#tech-stack)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Download Links](#other-download-locations)
-- [Team Roles](#required-team-to-build-a-minimal-version-of-this-agi)
 
 User Input → LLM Thought → Belief Graph → Contradiction Check → Memory Update → Goal Stack → Next Thought
 
@@ -35,7 +25,10 @@ Recursive, scalable cognitive loops for internal self-reflection
 The system is designed to run on standard home PC setups and leverages current open-source tools and language models like GPT-4, Claude, or open LLMs.
 
 Getting Started
+
 Minimal Viable Cognitive Loop (MVCL)
+
+
 Thought Generation: Use an LLM to interpret inputs and generate symbolic internal thoughts.
 
 Belief Graph Memory: Store and manage beliefs as graph nodes and edges with metadata like confidence, timestamps, and contradictions.
@@ -48,6 +41,7 @@ Meta-Cognitive Reflection: Trigger updates based on detected contradictions or u
 
 Goal Prioritization: Simulate motivation using a stack or JSON-based rules.
 
+
 Tech Stack
 LLM: OpenAI GPT-4, Claude, Mistral, or local LLMs
 
@@ -59,6 +53,7 @@ Visual Simulation: Unity, Three.js, or text-to-image models (Stable Diffusion)
 
 Integration: Python, LangChain, or custom CLI/GUI
 
+
 Usage
 Clone the repo
 
@@ -68,7 +63,13 @@ Follow the integration guide to build modular cognitive loops
 
 Expand with visual simulation or motivational layers as needed
 
+
 Contribution
+To contribute:
+1. Fork this repo
+2. Create a feature branch
+3. Submit a pull request with a clear description of your changes
+
 Contributions, bug reports, and enhancements are welcome. This project aims to enable open collaboration around AGI design principles inspired by the original blueprint.
 
 License
