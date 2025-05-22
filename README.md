@@ -59,6 +59,8 @@ This repository is licensed under the Apache 2.0 License. See LICENSE for detail
 Acknowledgments
 This work is based on the AGI blueprint publicly disclosed by Derek Van Derven in April 2025. The design emphasizes transparency, ethical considerations, and modular, scalable AI development.
 
+YOUTUBE VIDEO: https://www.youtube.com/watch?v=QTNXKDV2W9s
+
 MY MAIN WEBSITE: https://derekvanderven.com/agi
 
 WHY THIS BLUEPRINT MATTERS: https://derekvanderven.com/benefits
