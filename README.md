@@ -70,7 +70,7 @@ FACEBOOK: AGI DEV GROUP: https://www.facebook.com/groups/1163995388728817
 OTHER DOWNLOAD LOCATIONS: 
 
 ARCHIVE.ORG
-https://archive.org/details/@derek_v906Z
+https://archive.org/details/@derek_v906
 
 Zenodo:   https://zenodo.org/records/15313197
 
