@@ -58,3 +58,53 @@ This repository is licensed under the Apache 2.0 License. See LICENSE for detail
 
 Acknowledgments
 This work is based on the AGI blueprint publicly disclosed by Derek Van Derven in April 2025. The design emphasizes transparency, ethical considerations, and modular, scalable AI development.
+
+MY MAIN WEBSITE: https://derekvanderven.com/agi
+
+WHY THIS BLUEPRINT MATTERS: https://derekvanderven.com/benefits
+
+DONATE: https://buymeacoffee.com/dvagi
+
+OTHER DOWNLOAD LOCATIONS: 
+
+ARCHIVE.ORG
+https://archive.org/details/@derek_v906Z
+
+Zenodo:   https://zenodo.org/records/15313197
+
+
+CID:
+
+bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey
+
+Main IPFS Gateway:
+
+https://ipfs.io/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey
+
+DWeb Gateway:
+
+https://dweb.link/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey
+
+Pinata Gateway:
+
+https://gateway.pinata.cloud/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey
+
+
+ALTERNATE DOWNLOAD SOURCES FOR THE AGI BLUEPRINT ETHICS STATEMENT:
+
+
+CID:
+
+bafkreiecaj7vix3svloh5r4zr2r6ii25lcongfr7rmpykgbo2janh6vxm4
+
+Main IPFS gateway (global):
+
+https://ipfs.io/ipfs/bafkreiecaj7vix3svloh5r4zr2r6ii25lcongfr7rmpykgbo2janh6vxm4
+
+DWeb Gateway:
+
+https://dweb.link/ipfs/bafkreiecaj7vix3svloh5r4zr2r6ii25lcongfr7rmpykgbo2janh6vxm4
+
+Pinata gateway:
+
+https://gateway.pinata.cloud/ipfs/bafkreiecaj7vix3svloh5r4zr2r6ii25lcongfr7rmpykgbo2janh6vxm4
