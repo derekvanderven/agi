@@ -2,7 +2,9 @@
 Author: Derek Van Derven | April 2025
 
 This blueprint outlines the first publicly disclosed AGI architecture to integrate visual thought simulation, mnemonic-symbolic memory encoding, and internal contradiction resolution as core cognitive functions. 
+
 The system features a multimodal cognitive loop capable of constructing internal scenes, simulating abstract concepts, and self-monitoring belief networks using peg-word mnemonic grounding. 
+
 Originally published by Derek Van Derven in April 2025, this design serves as a practical, buildable roadmap for symbolic-visual AGI systems using current tools like LLMs, Neo4j, and Unity.
 
 Build a Minimal AGI Prototype.
