@@ -78,7 +78,7 @@ This work is based on the AGI blueprint publicly disclosed by Derek Van Derven i
 ## Other Download Locations  
 
 - Archive.org: https://archive.org/details/@derek_v906  
-- Zenodo: https://zenodo.org/records/15313197  
+- Zenodo: https://zenodo.org/records/15548697
 
 ---
 
