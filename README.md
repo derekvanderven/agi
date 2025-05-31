@@ -10,6 +10,8 @@ The system features a multimodal cognitive loop capable of constructing internal
 
 Originally published by Derek Van Derven in April 2025, this design serves as a practical, buildable roadmap for symbolic-visual AGI systems using current tools like LLMs, Neo4j, and Unity.
 
+Also known in emerging discussions as cognitive simulation architecture, multimodal world modeling, or generative mental scene construction — these are all facets of the broader cognitive mechanism I originally named Visual Thought AGI.
+
 ---
 
 ## Getting Started  
