@@ -73,7 +73,7 @@ This work is based on the AGI blueprint publicly disclosed by Derek Van Derven i
 - [YouTube Video](https://www.youtube.com/watch?v=QTNXKDV2W9s)  
 - [Main Website](https://derekvanderven.com/agi)  
 - [Why This Blueprint Matters](https://derekvanderven.com/benefits)  
-- [Facebook AGI Dev Group](https://www.facebook.com/groups/1163995388728817)  
+ 
 
 ---
 
@@ -91,29 +91,11 @@ This work is based on the AGI blueprint publicly disclosed by Derek Van Derven i
 - [DWeb Gateway](https://dweb.link/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey)  
 - [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey)
 
-DWeb Gateway:
-
-https://dweb.link/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey
-
-Pinata Gateway:
-
-https://gateway.pinata.cloud/ipfs/bafybeifjiyzm6tmk2jj27tjvbpqgdqpjm5loeon6y6ikxzeek3ff2vbdey
-
-
-## ALTERNATE DOWNLOAD SOURCES FOR THE AGI BLUEPRINT ETHICS STATEMENT:
-
-
+  
 ___________________________________________________________________________________________________________
 
-## REQUIRED TEAM TO BUILD A MINIMAL VERSION OF THIS AGI
+## REQUIRED SKILLS TO BUILD A MINIMAL VERSION OF THIS AGI
 
-Join a grassroots, open collaboration to build the world’s first multimodal AGI prototype — a system designed from the ground up for ethical reasoning, visual thought, and deep self-reflection.
-
-Early team members will help shape a new paradigm in AI development
-
-## THE TEAM WE NEED. TO BUILD A MINIMUM VERSION OF THIS AGI.
-
-To build a minimal, functional prototype of the Multimodal Cognitive System described in the patent, you'll need a small, high-impact interdisciplinary team. Here's the minimum viable team with titles and required skills:
 
 ## 🚀 1. Technical Lead / AGI Architect
 Skills:
