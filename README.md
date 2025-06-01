@@ -1,4 +1,4 @@
-# Multimodal Cognitive System — AGI Build Guide & Starter Code  
+# Multimodal Cognitive System — AGI Build Guide
 **Author:** Derek Van Derven | April 2025  
 
 ---
