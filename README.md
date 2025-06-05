@@ -83,10 +83,23 @@ Without the expanded edition, key elements like goal arbitration, belief saturat
 If you're building toward human-aligned symbolic reasoning, emotional salience without affective chaos, or reflective memory architectures, the 291-page version is the full cognitive terrain — not just the map's outline.
 
 
+CID: bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
 
-Reference-only 291 page AGI blueprint version - password encrypted  ZIP archive (IPFS mirror):
+https://ipfs.io/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
 
- https://ipfs.io/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://dweb.link/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+
+https://gateway.pinata.cloud/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+
+https://cloudflare-ipfs.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+
+https://cf-ipfs.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+
+ https://ipfs.runfission.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+
+https://gateway.originprotocol.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+
+https://hardbin.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
 
 
 
