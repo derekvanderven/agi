@@ -14,8 +14,9 @@ Also known in emerging discussions as cognitive simulation architecture, multimo
 
 ---
 
-he blueprint here is the first blueprint of 46 pages.
+The blueprint here is the first blueprint of 46 pages,  and the final version of 291 pages.
 
+The site: https://visualthoughtagi.com
 
 
 The Considerations and Caveats PDF issues were fixed in the 291 page version of the blueprint.
