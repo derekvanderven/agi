@@ -3,7 +3,7 @@
 
 ---
 
-*** Note: This 291-page blueprint is the final version. No future updates, revisions, or additions will be made.***
+*** Note: This 295-page blueprint is the final version. No future updates, revisions, or additions will be made.***
 
 ## Overview  
 This blueprint outlines the first publicly disclosed AGI architecture to integrate visual thought simulation, mnemonic-symbolic memory encoding, and internal contradiction resolution as core cognitive functions.
@@ -16,17 +16,17 @@ Also known in emerging discussions as cognitive simulation architecture, multimo
 
 ---
 
-The blueprint here is the first blueprint of 46 pages,  and the final version of 291 pages.
+The blueprint here is the first blueprint of 46 pages,  and the final version of 295 pages.
 
 The site: https://visualthoughtagi.com
 
 
 The Considerations and Caveats PDF issues were fixed in the 291 page version of the blueprint.
 
-THE FULL AGI 291 PAGE AGI ARCHITECTURE BLUEPRINT IS COMPLETE - PUBLISHED AT MIDNIGHT ON JUNE 5TH 2025 FOR THE FIRST TIME ONLINE HERE.
+THE FULL AGI 295 PAGE AGI ARCHITECTURE BLUEPRINT IS COMPLETE - PUBLISHED AT MIDNIGHT ON JUNE 5TH 2025 FOR THE FIRST TIME ONLINE HERE.
 
 
-Supplement Note: Expanded AGI Blueprint Now Available (291 Pages)
+Supplement Note: Expanded AGI Blueprint Now Available (295 Pages)
 
 This current version (46 pages) presents the core conceptual skeleton of the proposed AGI architecture: a system rooted in internal visual simulation, contradiction resolution, symbolic memory, and reflective reasoning.
 
@@ -34,7 +34,7 @@ A significantly expanded version (291 pages) is now available for those interest
 
 
 
-🧠 What the 291-Page Blueprint Adds
+🧠 What the 295-Page Blueprint Adds
 
 New Core Systems
 
@@ -71,7 +71,7 @@ Forgiveness in Symbolic Conflict
 🔎 Why This Matters
 
 The 46-page version is best suited for high-level evaluation or academic citation.
-The 291-page version is designed for:
+The 295-page version is designed for:
 
 Engineering simulation-ready AGI modules
 
@@ -86,23 +86,23 @@ Without the expanded edition, key elements like goal arbitration, belief saturat
 If you're building toward human-aligned symbolic reasoning, emotional salience without affective chaos, or reflective memory architectures, the 291-page version is the full cognitive terrain — not just the map's outline.
 
 
-CID: bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+CID: bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://ipfs.io/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://ipfs.io/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://dweb.link/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://dweb.link/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://gateway.pinata.cloud/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://gateway.pinata.cloud/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://cloudflare-ipfs.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://cloudflare-ipfs.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://cf-ipfs.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://cf-ipfs.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
- https://ipfs.runfission.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+ https://ipfs.runfission.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://gateway.originprotocol.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://gateway.originprotocol.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
-https://hardbin.com/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+https://hardbin.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
 
 
@@ -174,10 +174,9 @@ This work is based on the AGI blueprint publicly disclosed by Derek Van Derven i
 
 ## Links  
 
-- [YouTube Video](https://www.youtube.com/watch?v=QTNXKDV2W9s)  
-- [Main Website](https://derekvanderven.com/agi)  
-- [Why This Blueprint Matters](https://derekvanderven.com/benefits)  
- 
+https://visualthoughtagi.com
+
+https://derekvanderven.com
 
 ---
 
@@ -191,9 +190,9 @@ This work is based on the AGI blueprint publicly disclosed by Derek Van Derven i
 ## IPFS Gateways  
 
 - CID: bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
-- [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram)  
-- [DWeb Gateway](https://dweb.link/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram)  
-- [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram)
+- [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)  
+- [DWeb Gateway](https://dweb.link/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)  
+- [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)
 
   
 ___________________________________________________________________________________________________________
