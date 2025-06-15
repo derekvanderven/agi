@@ -85,8 +85,10 @@ Without the expanded edition, key elements like goal arbitration, belief saturat
 
 If you're building toward human-aligned symbolic reasoning, emotional salience without affective chaos, or reflective memory architectures, the 291-page version is the full cognitive terrain — not just the map's outline.
 
+PLEASE PIN AND SHARE:
 
 CID: bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+
 
 https://ipfs.io/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
 
