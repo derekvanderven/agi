@@ -185,13 +185,14 @@ https://derekvanderven.com
 ## Other Download Locations  
 
 - Archive.org: https://archive.org/details/@derek_v906  
-- Zenodo: https://zenodo.org/records/15548697
+- Zenodo: [https://zenodo.org/records/15548697](https://zenodo.org/records/15670500)
 
 ---
 
 ## IPFS Gateways  
 
-- CID: bafybeifggdy6uwjlv65xyv2kktfvvrobbzkyuwys2be5i7iynsv2hlyram
+- CID: bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+- 
 - [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)  
 - [DWeb Gateway](https://dweb.link/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)  
 - [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)
