@@ -87,24 +87,24 @@ If you're building toward human-aligned symbolic reasoning, emotional salience w
 
 PLEASE PIN AND SHARE:
 
-CID: bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+CID: bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
 
-https://ipfs.io/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://ipfs.io/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
-https://dweb.link/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://dweb.link/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
-https://gateway.pinata.cloud/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://gateway.pinata.cloud/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
-https://cloudflare-ipfs.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://cloudflare-ipfs.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
-https://cf-ipfs.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://cf-ipfs.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
- https://ipfs.runfission.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+ https://ipfs.runfission.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
-https://gateway.originprotocol.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://gateway.originprotocol.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
-https://hardbin.com/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+https://hardbin.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 
 
 
@@ -185,16 +185,16 @@ https://derekvanderven.com
 ## Other Download Locations  
 
 - Archive.org: https://archive.org/details/@derek_v906  
-- Zenodo: [https://zenodo.org/records/15548697](https://zenodo.org/records/15670500)
+- Zenodo: [https://zenodo.org/records/15670500](https://zenodo.org/records/15671255)
 ---
 
 ## IPFS Gateways  
 
-- CID: bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu
+- CID: bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
 - 
-- [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)  
-- [DWeb Gateway](https://dweb.link/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)  
-- [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeicmp4fjztxqmyguknttyevohbr4crsdxdo6lnutchuyrlwjvimvsu)
+- [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq)  
+- [DWeb Gateway](https://dweb.link/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq)  
+- [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq)
 
   
 ___________________________________________________________________________________________________________
