@@ -79,24 +79,24 @@ If you're building toward human-aligned symbolic reasoning, emotional salience w
 
 PLEASE PIN AND SHARE:
 
-CID: bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+CID: bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
 
-https://ipfs.io/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://ipfs.io/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
-https://dweb.link/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://dweb.link/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
-https://gateway.pinata.cloud/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://gateway.pinata.cloud/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
-https://cloudflare-ipfs.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://cloudflare-ipfs.com/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
-https://cf-ipfs.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://cf-ipfs.com/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
- https://ipfs.runfission.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+ https://ipfs.runfission.com/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
-https://gateway.originprotocol.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://gateway.originprotocol.com/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
-https://hardbin.com/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+https://hardbin.com/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 
 
 
@@ -182,11 +182,11 @@ https://derekvanderven.com
 
 ## IPFS Gateways  
 
-- CID: bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq
+- CID: bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq
 - 
-- [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq)  
-- [DWeb Gateway](https://dweb.link/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq)  
-- [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeifzthi72opwennjanf4n2svk65rbf2ouguxgpx7d4kwwwkkryf3bq)
+- [Main IPFS Gateway](https://ipfs.io/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq)  
+- [DWeb Gateway](https://dweb.link/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq)  
+- [Pinata Gateway](https://gateway.pinata.cloud/ipfs/bafybeidpha45ktmzzzibe3gkdiio2fzi4diokguzcgjdb4seol6ktp2sfq)
 
   
 ___________________________________________________________________________________________________________
