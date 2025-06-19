@@ -171,7 +171,7 @@ https://derekvanderven.com
 ## Other Download Locations  
 
 - Archive.org: https://archive.org/details/@derek_v906  
-- Zenodo: [https://zenodo.org/records/15694443]([https://zenodo.org/records/15694443](https://zenodo.org/records/15694443))
+- Zenodo: [https://zenodo.org/records/15694443](https://zenodo.org/records/15694443)
 ---
 
 ## IPFS Gateways  
