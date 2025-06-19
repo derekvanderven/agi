@@ -16,16 +16,11 @@ Also known in emerging discussions as cognitive simulation architecture, multimo
 
 ---
 
-
 The site: https://visualthoughtagi.com
 
 
-The Considerations and Caveats PDF issues were fixed in the 291 page version of the blueprint.
-
 THE FULL AGI 379 PAGE AGI ARCHITECTURE BLUEPRINT IS COMPLETE.  
 
-
- 
 
 🧠 What the 375-Page Blueprint Adds
 
@@ -73,9 +68,9 @@ Advanced symbolic cognitive loop tuning and failure handling
 
 Researchers exploring symbolic-to-embodied transfer challenges
 
-Without the expanded edition, key elements like goal arbitration, belief saturation control, scene-based contradiction healing, and identity continuity over time remain unexplored or too abstract to model.
+Without the 379-page edition, key elements like goal arbitration, belief saturation control, scene-based contradiction healing, and identity continuity over time remain unexplored or too abstract to model.
 
-If you're building toward human-aligned symbolic reasoning, emotional salience without affective chaos, or reflective memory architectures, the 291-page version is the full cognitive terrain — not just the map's outline.
+If you're building toward human-aligned symbolic reasoning, emotional salience without affective chaos, or reflective memory architectures, the 379-page version is the full cognitive terrain — not just the map's outline.
 
 PLEASE PIN AND SHARE:
 
@@ -107,7 +102,6 @@ This blueprint outlines the first publicly disclosed AGI architecture to integra
 The system features a multimodal cognitive loop capable of constructing internal scenes, simulating abstract concepts, and self-monitoring belief networks using peg-word mnemonic grounding.
 
 Originally published by Derek Van Derven in April 2025, this design serves as a practical, buildable roadmap for symbolic-visual AGI systems using current tools like LLMs, Neo4j, and Unity.
-
 
 
 
